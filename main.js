@@ -1,3 +1,5 @@
+// Question 2
+
 const body = document.querySelector('body');
 
 function handleClick() {
@@ -8,6 +10,8 @@ function handleClick() {
 };
 
 handleClick();
+
+// Question 3
 
 function handleRequest(url) {
     $.ajax({
